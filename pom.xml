@@ -17,7 +17,7 @@
 	<properties>
 		<java.version>11</java.version>
 		<spring-plugin-core.version>1.2.0.RELEASE</spring-plugin-core.version>
-		<swagger.version>2.9.2</swagger.version>
+		<swagger.version>2.10.0</swagger.version>
 		<jacoco-maven-plugin.version>0.8.4</jacoco-maven-plugin.version>
 		<sonar-maven-plugin.version>3.5.0.1254</sonar-maven-plugin.version>
 		<jsr305.version>3.0.0</jsr305.version>
